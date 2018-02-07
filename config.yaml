@@ -1,0 +1,7 @@
+connect_url:
+sol_path: /home/bik/go/src/ethereum-front/contracts
+keystore_path: keystore
+gaslimit: 6400000
+port: 8085
+#solc: /home/bik/go/src/ethereum-front/solc/0.4.18/solidity-ubuntu-trusty/solc
+solc:
